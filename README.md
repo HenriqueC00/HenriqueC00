@@ -3,9 +3,9 @@
 ## Bem-vindo(a) ao perfil do Henrique Coser 😁
 
  <div>
-   <a href="https://github.com/HenriqueC00">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenriqueC00&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueC00&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/henriqueHca">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henriqueHca&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriqueHca&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
 <div style="display: inline_block"><br>
